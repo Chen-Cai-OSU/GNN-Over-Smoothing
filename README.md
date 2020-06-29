@@ -1,5 +1,5 @@
 # GNN-Over-Smoothing
-This is code for paper `A Note on Over-Smoothing for Graph Neural Networks`, which is accepted as ICML 2020 graph representation learning ([GRL+](https://grlplus.github.io/overview/)) workshop.
+This is code for paper **A Note on Over-Smoothing for Graph Neural Networks**, which is accepted as ICML 2020 graph representation learning ([GRL+](https://grlplus.github.io/overview/)) workshop.
 
 ### Abstract
 Graph Neural Networks (GNNs) have achieved a lot of success on graph-structured data. 
@@ -21,3 +21,11 @@ The code is tested on python=3.7.6, torch-geometric=1.5.0 and networkx=2.4.
 
 ### Citation
 If you are using the code, please consider citing our paper.
+```
+@article{cai2020note,
+  title={A Note on Over-Smoothing for Graph Neural Networks},
+  author={Cai, Chen and Wang, Yusu},
+  journal={arXiv preprint arXiv:2006.13318},
+  year={2020}
+}
+```
